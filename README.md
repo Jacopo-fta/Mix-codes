@@ -1,4 +1,5 @@
-# Mix_codes
+# Nuclear Engineering MSc projects
+
 
 Collection of Python scripts and numerical models developed for Nuclear Engineering MSc coursework, covering reactor thermal-hydraulics, fuel pin mechanics, radiation protection geometry, and superconducting magnet design.
 
